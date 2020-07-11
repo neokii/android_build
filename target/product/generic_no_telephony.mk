@@ -26,9 +26,7 @@ PRODUCT_PACKAGES := \
     MusicFX \
     OneTimeInitializer \
     Provision \
-    SystemUI \
-    EasterEgg \
-    WallpaperCropper
+    SystemUI
 
 PRODUCT_PACKAGES += \
     clatd \
